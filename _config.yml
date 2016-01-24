@@ -1,0 +1,28 @@
+name: MRCentre
+favicon: null
+layout_spectrum: 0.7519139149226248
+typography_spectrum: 0.7870521424338222
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.943956900620833
+  lightness: 0.09943304723128676
+  saturation: 0.07942358683794737
+  rhythmicContrast: 0.305892031872645
+purpose: []
